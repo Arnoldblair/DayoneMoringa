@@ -1,0 +1,44 @@
+body{
+    background-color: aqua;
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+section{
+    width: 100%;
+    height: 95vh;
+    background-size: cover;
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: cadetblue;
+    box-shadow: 2px 2px 12pc rgba(red, green, blue, alpha);
+    padding: 0px 5%;
+}
+nav ul{
+    display: flex;
+}
+nav ul li a{
+    margin: 30px;
+    font-family: myriad pro regular;
+    color: green;
+    font-size: 15px;
+    font-weight: 700;
+}
+. logo{
+    font-family: RoadTest;
+    color: salmon;
+    font-size: 22px;
+}
+.active{
+    font-weight: bold;
+    color: red;
+}
