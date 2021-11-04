@@ -42,3 +42,21 @@ nav ul li a{
     font-weight: bold;
     color: red;
 }
+.text-container p:nth-child(1){
+    font-family: calibri;
+    font-weight: bold;
+    color: slategray;
+    font-size: 22px;
+}
+.text-container p:nth-last-child(2){
+    font-family: calibri;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color:beige
+    font-size:60px;
+}
+.text-container p:nth-last-child(3){
+    font-family: myriad pro regular;
+    color: burlywood;
+    font-size: 30px;
+}
