@@ -71,3 +71,32 @@ nav ul li a{
     top: 42%;
     transform: translate(-13%,-42%);
 }
+.text-container button{
+    width: 130px;
+    height: 42px;
+    border-radius: 10px;
+    font-family: calibri;
+    font-weight: bold;
+    font-size: 14px;
+    outline: none;
+    margin: 0px 10px;
+}
+.hire-btn{
+    border: 2px solid burlywood;
+    color: crimson;
+}
+.down-cv{
+    background-color: crimson;
+    color: cyan;
+    border: none;
+}
+button:active{
+    transform: scale(1.1);
+}
+.blair{
+    height: 560px;
+    position: absolute;
+    bottom: 0px;
+    left: 70%;
+    transform: translateX(-70%);
+}
