@@ -149,26 +149,33 @@ button:active{
 }
 .projects{
     height: 200px;
-    background-color: seagreen;
+    background-color: rgb(139, 46, 134);
     padding: 2% 10% 0px 10%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    display: flex;
+    margin: -7% auto 20px auto;
+    position: relative;
+    justify-content: space-evenly;
+    align-items: center;
 }
 .projects-text p:nth-last-child(1){
     font-family: calibri;
-    font-weight: bold;
-    color: red;
+    font-weight: normal;
+    color:black;
     font-size: 15px;
-    line-height: 0px;
+    line-height: 15px;
 }
 .projects-text p:nth-last-child(2){
     font-family: calibri;
-    font-weight: bold;
-    color: skyblue;
+    font-weight: normal;
+    color: black;
     font-size: 15px;
-    line-height: 5px;
+    line-height: 15px;
 }
 .projects-text p:nth-last-child(3){
     font-family: calibri;
-    color: teal;
+    color:black;
 }
 .projects{
     width: 500px;
@@ -200,5 +207,6 @@ button:active{
     font-size: 14px;
     font-weight: bold;
 }
+
 
 
