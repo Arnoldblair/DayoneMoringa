@@ -18,4 +18,4 @@
 {Feel free to reach out incase of anything regarding this portfolio.You can reach me through my email:arnoldblair15@gmail.com}
 ### License
 
-Copyright (c) {2021} **{List of contributors or company name}**
+Copyright (c) {2021} **{Arnoldblair Munene}**
