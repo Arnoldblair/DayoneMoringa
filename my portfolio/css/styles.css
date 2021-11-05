@@ -147,4 +147,31 @@ button:active{
     font-family: calibri;
     background-color: aliceblue;
 }
+.projects{
+    height: 600px;
+    background-color: seagreen;
+    padding: 2% 10% 0px 10%;
+}
+.projects-text p:nth-last-child(1){
+    font-family: calibri;
+    font-weight: bold;
+    color: red;
+    font-size: 15px;
+    line-height: 0px;
+}
+.projects-text p:nth-last-child(2){
+    font-family: calibri;
+    font-weight: bold;
+    color: skyblue;
+    font-size: 15px;
+    line-height: 5px;
+}
+.projects-text p:nth-last-child(3){
+    font-family: calibri;
+    color: teal;
+}
+.projects{
+    width: 500px;
+    margin: 50px 0px;
+}
 
