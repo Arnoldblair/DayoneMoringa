@@ -132,4 +132,19 @@ button:active{
     font-weight: bold;
     line-height: 5px;
 }
+.about-text p:nth-child(3)
+.about-text p:nth-child(4){
+    color: springgreen;
+    font-family: calibri;
+    font-size: 16px;
+}
+.about-text button{
+    width: 120px;
+    height: 48px;
+    color: royalblue;
+    outline: none;
+    border: none;
+    font-family: calibri;
+    background-color: aliceblue;
+}
 
