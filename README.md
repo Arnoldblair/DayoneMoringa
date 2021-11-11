@@ -1,6 +1,6 @@
 # {Portfolio Landing Page}
-#### This is a portfolio landing page, {05/11/2021}
-#### By ** Arnoldblair Munene **
+#### I am ARnoldblair Munene, a student at Moringa school
+#### By Arnoldblair Munene 
 ## Description
 * This portfolio landing page allows you to navigate through it and know more about me.It has an about me section;which tells you more about me,a projects sections;which shows the projects i've done.It also has a contact me section which shows how you can reach out to me.
 
@@ -10,8 +10,7 @@
 * open the index file with liveserver
 * 
 ## live link
-
-* https://arnoldblair.github.io/DayoneMoringa/ 
+https://arnoldblair.github.io/DayoneMoringa/ 
  
  
 ## Known Bugs
