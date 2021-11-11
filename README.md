@@ -21,10 +21,10 @@
 * The languages used to create this portfolio landing page are HTML and CSS.
 
 ## Support and contact details
-* Feel free to reach out incase of anything regarding this portfolio.You can reach me through my email:arnoldblair15@gmail.com
+ arnoldblair15@gmail.com
 
 ### License
 
-Copyright (c) {2021} 
+This software is under the [MIT](LICENSE)Copyright (c) {2021} 
 
 
