@@ -5,10 +5,13 @@
 {This portfolio landing page.It allows you to navigate through it and know more about me.It has an about me section;which tells you more about me,a projects sections;which shows the projects i've done.It also has a contact me section which shows how you can reach out to me. }
 ## Setup/Installation Requirements
 *clone the repository from github
-*git clone
-* "https://github.com/Arnoldblair/DayoneMoringa.git"
 
-##live link
+*git clone
+
+ "https://github.com/Arnoldblair/DayoneMoringa.git"
+
+## live link
+
 https://arnoldblair.github.io/DayoneMoringa/
 
 ## Known Bugs
